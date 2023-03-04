@@ -1,5 +1,11 @@
-@import url(Ressetter.css);
-
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: Iranian Sans;
+  scroll-behavior: smooth;  
+}
 @font-face {
   src: url(../fonts/woff/IRANSansX-Bold.woff);
   font-display: swap;
